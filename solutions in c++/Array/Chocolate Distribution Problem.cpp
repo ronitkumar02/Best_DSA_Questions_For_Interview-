@@ -7,7 +7,6 @@ using namespace std;
 #define vvi  vector<vector<int>>
 #define ll long long
 #define rep(i,a,b) for(int i=a;i<b;i++)
-
 int main(){
     int n;cin>>n;
     vi a(n);
